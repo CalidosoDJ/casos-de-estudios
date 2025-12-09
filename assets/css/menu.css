@@ -1,0 +1,14 @@
+.items{
+    display: flex;
+    justify-items: center;
+    list-style: none;
+    
+}
+.texto{
+    text-align: center;
+    background-color: ;
+    
+}
+.colortex{
+    color: white;
+}
